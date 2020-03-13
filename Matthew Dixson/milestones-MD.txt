@@ -1,0 +1,14 @@
+Matthew Dixson
+Milestones:
+	1. Get git working on my windows computer
+	2. Install Unity
+	3. Do the basic platform tutorial
+	4. Do the 2D game tutorial
+
+Rubric
+15 pts: Project uses a data structure covered in the course
+10 pts: Project runs as intended
+5  pts: Graphics of the Project are decent looking
+10 pts: The project is not buggy to the point that its function is hindered
+
+Git repo link: https://github.com/mdixson2/cs302_final_project
