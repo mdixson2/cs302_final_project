@@ -7,3 +7,4 @@
   * 01hrs- Side scrolling tutorial finsihed
   * 30min- Used thefinished side scrolling tutorial to explore other aspects of unity
   * 30min- Started the 2D tutorial. Work in progress.
+  * **Total for 3/12:** 4hrs
