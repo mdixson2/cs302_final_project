@@ -1,1 +1,9 @@
-Time Spent:
+# Time Spent:
+
+## 3/14/2020
+Installing Unity and connecting to the repo - 30 minutes
+Unity Sidescroller tutorial - 30 minutes
+Learning C# Syntax online - 45 minutes
+Learning how to create a database - 30 minutes
+Learning how to connect the database to Unity - 45 minutes
+Brainstorming potential project ideas -  1 hour
