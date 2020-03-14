@@ -1,5 +1,5 @@
 Rubric:
 
 25 pts - Implemented intended data structure successfully
-10 pts - Project is free of major flaws (feels like a finished project
+10 pts - Project is free of major flaws (feels like a finished project)
 5 pts - Overall creative ideas
