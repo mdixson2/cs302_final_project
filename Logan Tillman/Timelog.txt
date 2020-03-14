@@ -1,6 +1,6 @@
-# Time Spent:
+Time Spent:
 
-## 3/14/2020
+3/14/2020
 Installing Unity and connecting to the repo - 30 minutes
 Unity Sidescroller tutorial - 30 minutes
 Learning C# Syntax online - 45 minutes
