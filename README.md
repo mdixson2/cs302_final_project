@@ -8,3 +8,5 @@
   * 30min- Used thefinished side scrolling tutorial to explore other aspects of unity
   * 30min- Started the 2D tutorial. Work in progress.
   * **Total for 3/12:** 4hrs
+* 4/13/2020
+  * 02hrs- Set up player class for new dungeon crawler. Also made helper functions
