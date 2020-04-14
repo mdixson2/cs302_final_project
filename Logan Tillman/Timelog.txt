@@ -7,3 +7,6 @@ Learning C# Syntax online - 45 minutes
 Learning how to create a database - 30 minutes
 Learning how to connect the database to Unity - 45 minutes
 Brainstorming potential project ideas -  1 hour
+
+4/13/2020
+Worked on generating random dungeons with different probabilities for each type of room - 2 hours
