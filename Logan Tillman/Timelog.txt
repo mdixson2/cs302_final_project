@@ -15,5 +15,5 @@ Worked on generating random dungeons with different probabilities for each type 
 Coded the boss rooms and made the enemy class to house the bosses - 3 hours
 
 4/19/2020
-Cleaned up the text output to get ready for demo - 2 hours
-Ported the project to GitHub, fixed segfaults, and wrote the makefile - 4 hours
+Cleaned up the text output to get ready for demo - 3 hours
+Ported the project to GitHub, fixed segfaults, and wrote the makefile - 3 hours
