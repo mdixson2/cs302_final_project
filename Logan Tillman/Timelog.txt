@@ -10,3 +10,10 @@ Brainstorming potential project ideas -  1 hour
 
 4/13/2020
 Worked on generating random dungeons with different probabilities for each type of room - 2 hours
+
+4/18/2020
+Coded the boss rooms and made the enemy class to house the bosses - 3 hours
+
+4/19/2020
+Cleaned up the text output to get ready for demo - 2 hours
+Ported the project to GitHub, fixed segfaults, and wrote the makefile - 4 hours
