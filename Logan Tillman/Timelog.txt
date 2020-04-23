@@ -20,3 +20,6 @@ Ported the project to GitHub, fixed segfaults, and wrote the makefile - 3 hours
 
 4/20/2020
 Demo and recorded presentation - 1 hour
+
+4/22/2020
+Fixing bugs and moving project to GitHub for demo - 2 hours
